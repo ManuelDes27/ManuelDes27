@@ -29,6 +29,6 @@
 ## 📫 Contacto
 
 - 📧 Email: **manuelgr88@hotmail.com**
-- 💼 LinkedIn: **[[tu-linkedin-aquí]](https://www.linkedin.com/in/manuel-alberto-garc%C3%ADa-ram%C3%ADrez-3b73b8371/)**
-- 💻 GitHub: [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+- 💼 LinkedIn: **https://www.linkedin.com/in/manuel-alberto-garc%C3%ADa-ram%C3%ADrez-3b73b8371/**
+- 💻 GitHub: https://github.com/ManuelDes27
 
